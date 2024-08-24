@@ -285,6 +285,7 @@ margin-bottom: 16px;
   flex-direction: row;
   flex-wrap: wrap;
   gap: 44px;
+  max-width: max-content;
 
   border-radius: 8px;
 padding: 32px;
